@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif; 
+  padding: 0;
+  background-color: rgb(47, 82, 82);
+  margin:0;
+  
+}
+.container{
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px 40px;
+    background-color: bisque;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
